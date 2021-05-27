@@ -53,7 +53,7 @@ with open('Week3Matchups.csv', newline='') as csvfile:
             
             matchcheck='N'    
             for matchrow in Matches:
-                if match[1]==matchrow[0] and match[3]==matchrow[3]:
+                if match[0]==matchrow[0] and match[3]==matchrow[3]:
                    matchrow[1]=matchrow[1]+match[1]
                    matchrow[2]=matchrow[2]+match[2]
                
@@ -61,7 +61,7 @@ with open('Week3Matchups.csv', newline='') as csvfile:
                    matchrow[5]=matchrow[5]+match[5]
                    matchcheck='Y'
                
-                elif match[3]==matchrow[0] and match[1]==matchrow[3]:
+                elif match[3]==matchrow[0] and match[0]==matchrow[3]:
                     matchrow[1]=matchrow[1]+match[4]
                     matchrow[2]=matchrow[2]+match[5]
                 
