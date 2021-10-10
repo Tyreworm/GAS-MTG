@@ -1,0 +1,100 @@
+1 Abundant Harvest
+1 Adanto Vanguard
+1 Agonizing Remorse
+1 Alpine Meadow
+1 Arctic Treeline
+1 Assassin's Trophy
+1 Aurelia, Exemplar of Justice
+1 Baleful Mastery
+1 Blightstep Pathway
+1 Blood Crypt
+1 Bloodchief's Thirst
+1 Blooming Marsh
+1 Bonecrusher Giant
+1 Brightclimb Pathway
+1 Castle Locthwain
+1 Cave of the Frost Dragon
+1 Chandra, Torch of Defiance
+1 Clifftop Retreat
+1 Cling to Dust
+1 Concealed Courtyard
+1 Cragcrown Pathway
+1 Darkbore Pathway
+1 Demonic Tutor
+1 Den of the Bugbear
+1 Dire Fleet Daredevil
+1 Domri, Anarch of Bolas
+1 Doom Blade
+1 Dragonkin Berserker
+1 Dragonskull Summit
+1 Dromoka's Command
+1 Duress
+1 Elder Gargaroth
+1 Erebos's Intervention
+1 Fabled Passage
+1 Fatal Push
+1 Forest
+1 Gilded Goose
+1 Glint-Sleeve Siphoner
+1 Glorybringer
+1 Godless Shrine
+1 Gruul Spellbreaker
+1 Hazoret the Fervent
+1 Highland Forest
+1 Immersturm Predator
+1 Indatha Triome
+1 Inquisition of Kozilek
+1 Inspiring Vantage
+1 Isolated Chapel
+1 Ketria Triome
+1 Klothys, God of Destiny
+1 Knight of Autumn
+1 Knight of the Ebon Legion
+1 Kolaghan's Command
+1 Kunoros, Hound of Athreos
+1 Legion Warboss
+1 Lightning Bolt
+1 Lightning Helix
+1 Lightning Strike
+1 Lotus Cobra
+1 Maelstrom Pulse
+1 Minsc, Beloved Ranger
+1 Mountain
+1 Mythos of Nethroi
+1 Once Upon a Time
+1 Orcus, Prince of Undeath
+1 Overgrown Tomb
+1 Paradise Druid
+1 Plains
+1 Questing Beast
+1 Radha, Heart of Keld
+1 Ranger Class
+1 Rankle, Master of Pranks
+1 Reidane, God of the Worthy
+1 Rip Apart
+1 Robber of the Rich
+1 Rootbound Crag
+1 Rotting Regisaur
+1 Sacred Foundry
+1 Savai Triome
+1 Scavenging Ooze
+1 Sedgemoor Witch
+1 Shatterskull Smashing
+1 Shock
+1 Showdown of the Skalds
+1 Snowfield Sinkhole
+1 Soul Shatter
+1 Stomping Ground
+1 Sulfurous Mire
+1 Sunpetal Grove
+1 Swamp
+1 Swords to Plowshares
+1 Tainted Pact
+1 Temple Garden
+1 Thoughtseize
+1 Valentin, Dean of the Vein
+1 Valki, God of Lies
+1 Vanishing Verse
+1 Woodland Cemetery
+1 Woodland Chasm
+1 Zagoth Triome
